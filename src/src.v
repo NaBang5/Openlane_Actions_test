@@ -1,4 +1,4 @@
-module top(
+module src(
   input [5:0] F,
   input [5:0] G,
   output[11:0] T
